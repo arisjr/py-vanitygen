@@ -110,7 +110,7 @@ def main():
         if check_finish(ps):
             kill_em_all(ps)
             sys.exit(0)
-        sleep(.5)
+        sleep(.1)
 
 
     # print(ps)
