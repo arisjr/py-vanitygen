@@ -63,7 +63,7 @@ def address_search(search_for=address, multiplier = 0):
 
 
     #print(f"Searching for {search_for}, witness_type is {witness_type} (pid {os.getpid()})")
-    print(f"Sstarting address search: process {multiplier} (pid {os.getpid()})")
+    print(f"Starting address search: process {multiplier} (pid {os.getpid()})")
 
 
     while not search_for in address:
