@@ -33,7 +33,7 @@ from time import sleep
 import random
 import multiprocessing
 
-address = 'mscAn4dWmwJkuAR5gDmdXSYS3ampxHC4Ct'
+address = 'Your address here'
 witness_type = 'segwit'
 processors = 8
 parts = int((2**32)/processors)
